@@ -10,7 +10,7 @@ const char* password = "123456789";
 
 // Structure example to receive data
 // Must match the sender structure
-typedef struct struct_message {
+typedef struct struct_message { 
   int id;
   int check_value;
   unsigned int readingId;
